@@ -5,7 +5,7 @@
     <div class="col-md-6 offset-md-3">
         <div class="card">
             <div class="card-body">
-                <h1 class="text-center mb-4">Tambah Karyawan ChipiChapa</h1>
+                <h1 class="text-center mb-4">Tambah Karyawan BananaCat</h1>
                 <form action="{{ route('employees.store') }}" method="POST">
                     @csrf
                     <div class="mb-3">

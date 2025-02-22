@@ -5,7 +5,7 @@
     <div class="col-md-6 offset-md-3">
         <div class="card">
             <div class="card-body">
-                <h1 class="text-center mb-4">Detail Karyawan ChipiChapa</h1>
+                <h1 class="text-center mb-4">Detail Karyawan BananaCat</h1>
                 <div class="mb-3">
                     <p><strong>Nama:</strong> {{ $employee->nama }}</p>
                     <p><strong>Umur:</strong> {{ $employee->umur }}</p>

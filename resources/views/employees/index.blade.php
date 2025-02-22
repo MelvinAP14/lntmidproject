@@ -3,8 +3,8 @@
 @section('content')
 <div class="row">
     <div class="col-md-12">
-        <h1 class="text-center mb-4">Daftar Karyawan ChipiChapa</h1>
-        <a href="{{ route('employees.create') }}" class="btn btn-primary mb-4">Tambah Karyawan ChipiChapa</a>
+        <h1 class="text-center mb-4">Daftar Karyawan BananaCat</h1>
+        <a href="{{ route('employees.create') }}" class="btn btn-primary mb-4">Tambah Karyawan BananaCat</a>
         <div class="row">
             @foreach ($employees as $employee)
                 <div class="col-md-4 mb-4">
